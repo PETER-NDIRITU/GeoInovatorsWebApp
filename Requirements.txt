@@ -1,0 +1,12 @@
+earthengine-api==0.1.358
+streamlit==1.25.0
+geopandas==0.13.2
+geemap==0.19.6
+shapely==2.0.1
+folium==0.14.0
+pyproj==3.6.0
+fpdf==1.7.2
+streamlit-geolocation==0.1.4
+osmnx==1.5.0
+ipyleaflet==0.17.3
+networkx==3.1
